@@ -70,14 +70,3 @@ python Train.py
 python Test.py
 ```
 
-## Requirements
-
-(List any dependencies or requirements here)
-
-## Contributors
-
-(Add contributor information here)
-
-## License
-
-(Add license information here)
